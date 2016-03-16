@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "F:\\ABOUTWORK\\pdfshowlib\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\pdfshowlib\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 74,
+                        "endColumn": 49,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 59,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "F:\\ABOUTWORK\\pdfshowlib\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 16,
+                        "endColumn": 56,
+                        "endOffset": 71
+                    }
+                }
+            }
+        ]
+    }
+]

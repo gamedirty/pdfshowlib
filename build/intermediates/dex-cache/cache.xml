@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\ABOUTWORK\pdfshowlib\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_sliceb.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="88cc947a20aedef0531415ad56047dd6baa111e3">
+        <dex dex="F:\ABOUTWORK\pdfshowlib\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_sliceb_7f355ed2368a0ea580580d506ffbc3f5a0eea351\classes.dex" />
+    </item>
+    <item
+        jar="F:\ABOUTWORK\pdfshowlib\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\1a\dependencies.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4202511ba44127b79fe713c18786c8434a8f0ef">
+        <dex dex="F:\ABOUTWORK\pdfshowlib\app\build\intermediates\transforms\dex\debug\folders\1000\1a\dependencies_7c780e80b0797da28cedcd087dfab411038c941a\classes.dex" />
+    </item>
+    <item
+        jar="F:\ABOUTWORK\pdfshowlib\app\build\intermediates\transforms\instantRunSlicer\debug\jars\1\5\main_slice.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="453db3b73d89736c376c0c51b0c04e6f73eee75f">
+        <dex dex="F:\ABOUTWORK\pdfshowlib\app\build\intermediates\transforms\dex\debug\folders\1000\5\main_slice_4cd5aaebd68e7e23ce078e7cd6e8c574208f1585\classes.dex" />
+    </item>
+
+</items>
